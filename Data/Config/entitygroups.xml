@@ -336,7 +336,6 @@
 		<entity name="GhoulFemale" prob="0.2"/>
 		<entity name="GhoulFemale2" prob="0.2"/>
 		<entity name="GhoulFemaleScreamer" prob="0.2"/>
-		<entity name="zombieHooker" prob="0.0039"/>
 	</entitygroup>
 	<entitygroup name="ZombiesRadiatedsFerals">
 		<entity name="zombieWight"/>
@@ -422,7 +421,6 @@
 		<entity name="GhoulFemale" prob="0.2"/>
 		<entity name="GhoulFemale2" prob="0.2"/>
 		<entity name="GhoulFemaleScreamer" prob="0.2"/>
-		<entity name="zombieHooker" prob="0.0039"/>
 		<entity name="RobinBird" prob="0.2"/>
 		<entity name="animalFalcon" prob="0.2"/>
 		<entity name="birdAlcatraz" prob="0.2"/>
